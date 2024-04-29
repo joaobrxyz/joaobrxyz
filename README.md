@@ -2,4 +2,3 @@
 
 - 🔭 Sempre evoluindo...
 - 🌱 Estudando front-end
-- 😄 Pronouns: ele/dele
