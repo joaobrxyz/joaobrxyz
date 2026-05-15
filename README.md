@@ -1,59 +1,44 @@
-## Olá, meu nome é João Vitor!
+# Olá, eu sou o João Vitor! 👋
 
-### ⚙️ GitHub Analytics
+### Java Full-Stack Developer | Software Engineering Student
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=joaobrxyz&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobrxyz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=joaobrxyz&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-
---- 
-
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=joaobrxyz&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+Sou um desenvolvedor apaixonado por transformar lógica em soluções reais. Atualmente, estou finalizando minha graduação em **Análise e Desenvolvimento de Sistemas (ADS)** e me preparando para iniciar **Engenharia de Software**, sempre focado em construir aplicações robustas e escaláveis com Java e Spring Boot.
 
 ---
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
+## 🚀 Sobre Mim
+- 🎓 Estudante de Engenharia de Software.
+- ☕ Especialista em quebrar a cabeça com **Java** e o ecossistema **Spring**.
+- 🛠️ Desenvolvedor do **StudyHub** e **Anota+**, projetos focados em produtividade e educação.
+- 🗣️ Praticando inglês diariamente para atuar em ambientes globais.
+- 🏋️ Além do código: Entusiasta de musculação e tênis.
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/joaobrxyz/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
+---
+
+## 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** Java, SQL, TypeScript
+- **Frameworks:** Spring Boot, Angular
+- **Banco de Dados:** MySQL, MongoDB
+- **Infraestrutura & Ferramentas:** Git, Docker, Linux 
+- **Cloud:** Render, Firebase, Gcp
+
+---
+
+## 📊 Meus Projetos Principais
+### [StudyHub](https://github.com/joaobrxyz/studyhub)
+Uma plataforma completa de simulados e gestão de estudos, desenvolvida para ajudar estudantes a superarem desafios técnicos e lógicos através da prática constante.
+- **Tech Stack:** Java, Spring Boot, Angular, MySQL.
+
+### [Anota+](https://github.com/joaobrxyz/anotamais)
+Aplicação mobile para organização de materiais de estudo e flashcards.
+- **Tech Stack:** Java (Android), SQLite.
+
+---
+
+## 📫 Vamos nos conectar?
+- [LinkedIn](https://www.linkedin.com/in/joaovitorgdasilva/)
+- [Portfólio](https://joaobrxyz.com.br)
+
+---
+
+### "Code is like humor. When you have to explain it, it’s bad." 💻✨
