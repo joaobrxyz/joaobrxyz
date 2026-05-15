@@ -11,7 +11,6 @@ Sou um desenvolvedor apaixonado por transformar lógica em soluções reais. Atu
 - ☕ Especialista em quebrar a cabeça com **Java** e o ecossistema **Spring**.
 - 🛠️ Desenvolvedor do **StudyHub** e **Anota+**, projetos focados em produtividade e educação.
 - 🗣️ Praticando inglês diariamente para atuar em ambientes globais.
-- 🏋️ Além do código: Entusiasta de musculação e tênis.
 
 ---
 
